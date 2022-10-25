@@ -7,7 +7,7 @@ Html and css no frameworks.
 GitHub: @uchexm
 Twitter: @nwakauc
 LinkedIn: https://www.linkedin.com/in/uchechi-nwaka-79a21a75/
-👤 Author.
+👤 Author...
 
 Feel free to contribute to my ongoing learning and projects...
 
