@@ -2,7 +2,7 @@ Hello Microverse.
 This is the very first project I am doing as a Microverse Full-Stack web development student.
 The objectives of this project is to implement Microverse best practices and check my understanding of same, and also to help me learn while contributing to the open-source platform.
 This project is built with
-Html and css no frameworks.
+Html css and no frameworks.
 
 GitHub: @uchexm
 Twitter: @nwakauc
