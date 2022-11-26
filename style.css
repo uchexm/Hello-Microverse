@@ -1,3 +1,6 @@
-.header {
+*{
+  box-sizing: border-box;
+}
+  .header {
   color: blue;
 }
